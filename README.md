@@ -4,7 +4,7 @@ This is a simple image recognition application using React + Vite, TypeScript, B
 
 ## Live Demo
 
-You can check out the live demo of the application here: [Image recognition Demo](https://voice-to-text-app-react-vite-ts.netlify.app/)
+You can check out the live demo of the application here: [Image recognition Demo](https://image-recognition-app-react-tensorflo.netlify.app/)
 
 ## Prerequisites
 
